@@ -1,10 +1,10 @@
 body{
-    height: 95vh;
-    width: 95vw;
+    height: 575px;
+    width: 775px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:white;
-    color: rgb(52, 165, 52);
+    background-color:darkcyan;
+    color: floralwhite ;
 }
